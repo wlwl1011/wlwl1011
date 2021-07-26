@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/wlwl1011?label=Follow)
 
-:wave: Hello My name is Harim, I am a enrolled in ![KNU](https://img.shields.io/badge/-KNU%20-0071C5?style=flat-square&logo=&logoColor=red)
+:wave: Hello My name is Minji Kim, I am a enrolled in ![KNU](https://img.shields.io/badge/-KNU%20-0071C5?style=flat-square&logo=&logoColor=red)
 
  My major is **computer science:computer:**, and I have project experience using **c(My most confident language)**, Java & Android, c++, Python, Matlab and nodeJs so and. I am very interested in **computer system**. I am especially interested in networking.
 
