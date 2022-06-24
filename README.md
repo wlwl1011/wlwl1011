@@ -8,7 +8,9 @@
  My major is **computer science:computer:**, I am very interested in **computer system, especially interested in networking.**
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011a&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlwl1011&layout=compact)](https://github.com/wlwl1011/github-readme-stats)
 
 ### :purple_heart: Career
 
