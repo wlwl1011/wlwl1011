@@ -10,7 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlwl1011&layout=compact)](https://github.com/wlwl1011/github-readme-stats)
 
 ### :purple_heart: Career
 
@@ -21,6 +20,10 @@
 
 
 ### :cyclone: Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlwl1011&layout=compact)](https://github.com/wlwl1011/github-readme-stats)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
