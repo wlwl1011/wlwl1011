@@ -5,10 +5,10 @@
 
 :wave: Hello My name is Minji Kim, I am a enrolled in ![KNU](https://img.shields.io/badge/-KNU%20-0071C5?style=flat-square&logo=&logoColor=red)
 
- My major is **computer science:computer:**, I am very interested in **computer system, especially interested in networking.
+ My major is **computer science:computer:**, I am very interested in **computer system, especially interested in networking.**
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011a&show_icons=true&theme=radical)
 
 ### :purple_heart: Career
 
