@@ -11,12 +11,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011&show_icons=true&theme=radical)
 
 
-### :purple_heart: Career
-
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2019. 3 ~ | Department of Computer Science Engineering  | **Kyungpook National University** |
-| **Research activities** | 2021. 05 ~  | Undergraduate Research Students | **Kyungpook Nationall Univ. IoT Standards Laboratory** |
-
-
-
+[🌱 PORTFOLIO](https://gratis-shape-ac1.notion.site/7bbce4e43df74b94809c3247b71a37bf)
