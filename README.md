@@ -18,4 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011&show_icons=true&theme=radical)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwl1011)](https://solved.ac/wlwl1011/)
+
+
 
