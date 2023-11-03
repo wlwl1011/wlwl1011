@@ -14,8 +14,7 @@
 
 [🌱 PORTFOLIO](https://gratis-shape-ac1.notion.site/7bbce4e43df74b94809c3247b71a37bf)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlwl1011&show_icons=true&theme=radical&include_all_commits=true)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwl1011)](https://solved.ac/wlwl1011/)
